@@ -1,36 +1,34 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Elderly Memory Museum: Bridging Generations, Preserving Memories
 
-## Getting Started
+**Problem Statement**
 
-First, run the development server:
+Singapore's rapidly aging population presents significant challenges:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+* **Healthcare Strain:** Increasing demand on healthcare services and long-term care facilities.
+* **Social Isolation:** Loneliness and reduced quality of life for seniors, especially those with limited family support.
+* **Cognitive Decline:** Memory loss and diminished independence.
+* **Intergenerational Gap:** Lack of meaningful interactions between young and old, leading to reduced empathy and understanding.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+**Product Overview**
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Elderly Memory Museum is an AI-powered solution designed to:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+* **Enhance Family Bonds:** Facilitate regular, meaningful communication between elderly parents and their adult children.
+* **Preserve Memories:** Encourage memory recall and storytelling through personalized interactions.
+* **Promote Intergenerational Understanding:** Bridge generational gaps by providing young family members with insights into their elders' lives.
 
-## Learn More
+**Core Functionality**
 
-To learn more about Next.js, take a look at the following resources:
+* **AI-Powered Companion:** A digital companion that simulates the voice and presence of an adult child.
+* **Memory Prompts:** Interactive features to trigger memories and spark conversations.
+* **Digital Legacy:** A platform to preserve family stories and histories.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+**Objective**
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+* **Cognitive Health:** Support cognitive function through stimulating interactions.
+* **Social Connection:** Reduce social isolation and strengthen family bonds.
+* **Intergenerational Understanding:** Foster empathy and understanding between generations.
+* **Preventive Healthcare:** Early intervention to mitigate cognitive decline.
+* **Digital Legacy:** Create a lasting digital record of family history.
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+By addressing these challenges, Elderly Memory Museum aims to create a more inclusive and connected society where seniors can age with dignity and younger generations appreciate their heritage.
